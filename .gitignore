@@ -445,3 +445,9 @@ compile_commands.json
 
 # Uncrustify
 uncrustify.cfg
+
+.installed/**
+my-thirdparty
+
+.idea/**
+*build*
